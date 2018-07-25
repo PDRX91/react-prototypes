@@ -14,10 +14,10 @@ export default props => {
                     </h4>
                     <div className="card-text">
                         <p>
-                            <b>Phone: {phone}</b>
+                            <b>Phone: </b>{phone}
                         </p>
                         <p>
-                            <b>Email: {email}</b>
+                            <b>Email: </b>{email}
                         </p>
                     </div>
                 </div>
